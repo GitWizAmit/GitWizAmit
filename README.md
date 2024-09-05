@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about technology and constantly exploring new ways to improve my skills and contribute to the community.
 
 ## 👀 I’m interested in ...
-- **Backend Development:** Java, Spring Boot, RESTful APIs
+- **Backend Development:** Java, Spring Boot, RESTful APIs, Microservices
 - **Cloud Computing:** AWS, Azure
 - **Data Management:** SQL, NoSQL, Data Modeling
 - **DevOps:** CI/CD, Docker, Kubernetes
